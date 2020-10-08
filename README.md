@@ -403,160 +403,167 @@ Application Framework</a></li>
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(200).pdf" style="text-decoration:none;">HoloViews: Building Complex Visualizations Easily for Reproducible Science</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(201).pdf" style="text-decoration:none;">Branch and Data Herding: Reducing Control and Memory Divergence for Error-tolerant GPU Applications</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(201).pdf" style="text-decoration:none;">Ginga: an open-source astronomical image viewer and toolkit</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(202).pdf" style="text-decoration:none;">Branch Prediction and the Performance of Interpreters - Don't Trust Folklore</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(202).pdf" style="text-decoration:none;">AI Based Voice Assistant Using Python</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(203).pdf" style="text-decoration:none;">Branch Prediction with Neural Networks: Hidden layers and Recurrent Connections</a></li> 
- 
- 
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(204).pdf" style="text-decoration:none;">Brief Calculus</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(205).pdf" style="text-decoration:none;">Bringing SIMD-128 to JavaScript</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(206).pdf" style="text-decoration:none;">Broadword Implementation of Parenthesis Queries</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(207).pdf" style="text-decoration:none;">Broadword Implementation of Rank/Select Queries</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(208).pdf" style="text-decoration:none;">Brook for GPUs: Stream Computing on Graphics Hardware</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(203).pdf" style="text-decoration:none;">Awkward Array: JSON-like data, NumPy-like idioms</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(209).pdf" style="text-decoration:none;">B-trees, Shadowing, and Clones</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(210).pdf" style="text-decoration:none;">Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(204).pdf" style="text-decoration:none;">Bringing ipywidgets Support to plotly.py</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(205).pdf" style="text-decoration:none;">MONTE Python for Deep Space Navigation</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(206).pdf" style="text-decoration:none;">Structural Cohesion: Visualization and Heuristics for Fast Computation with NetworkX and matplotlib</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(207).pdf" style="text-decoration:none;">SciSheets: Providing the Power of Programming With The Simplicity of Spreadsheets</a></li>
 
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(211).pdf" style="text-decoration:none;">Build Systems à la Carte</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(208).pdf" style="text-decoration:none;">Automated Image Quality Monitoring with IQMon</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(212).pdf" style="text-decoration:none;">Building a Bw-Tree Takes More Than Just BuzzWords</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(213).pdf" style="text-decoration:none;">Building R Packages: An Introduction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(209).pdf" style="text-decoration:none;">The Climate Modelling Toolkit</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(210).pdf" style="text-decoration:none;">Beyond: A Portable Virtual World Simulation Framework</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(214).pdf" style="text-decoration:none;">Bumper Sticker Computer Science: programming pearls</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(215).pdf" style="text-decoration:none;">Burrows-Wheeler Transform and FM Index</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(216).pdf" style="text-decoration:none;">Bypass Control Flow Guard Comprehensively</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(217).pdf" style="text-decoration:none;">C Reference Cheat Sheet</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(211).pdf" style="text-decoration:none;">Tell Me Something I Don't Know: Analyzing OkCupid Profiles</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(212).pdf" style="text-decoration:none;">PyRK: A Python Package For Nuclear Reactor
+Kinetics</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(213).pdf" style="text-decoration:none;">Teaching numerical methods with IPython notebooks and inquiry-based learning</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(218).pdf" style="text-decoration:none;">Introduction to DevOps on AWS</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(219).pdf" style="text-decoration:none;">Working Draft, Standard for Programming Language C++</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(220).pdf" style="text-decoration:none;">Language Features of C++17</a></li>
-  
-  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(221).pdf" style="text-decoration:none;">C++20 Features</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(222).pdf" style="text-decoration:none;">Cache and I/O Efficient Functional Algorithms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(214).pdf" style="text-decoration:none;">The Sacred Infrastructure for Computational
+Research</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(215).pdf" style="text-decoration:none;">Project-based introduction to scientific computing for physics majors</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(223).pdf" style="text-decoration:none;">CAB: Cache Aware Bi-tier Task-stealing in Multi-socket Multi-core Architecture</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(224).pdf" style="text-decoration:none;"> Cache Organization and Memory Management of the Intel Nehalem Computer Architecture </a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(225).pdf" style="text-decoration:none;">Cache-, Hash- and Space-Efficient Bloom Filters</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(216).pdf" style="text-decoration:none;">Hyperopt-Sklearn: Automatic Hyperparameter
+Configuration for Scikit-Learn</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(217).pdf" style="text-decoration:none;">Automation of Inertial Fusion Target Design with Python</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(218).pdf" style="text-decoration:none;">Exploring Collaborative HPC Visualization Workflows using VisIt and Python</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(219).pdf" style="text-decoration:none;">Python Coding of Geospatial Processing in
+Web-based Mapping Applications</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(220).pdf" style="text-decoration:none;">PyTeCK: a Python-based automatic testing package for chemical kinetic models</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(226).pdf" style="text-decoration:none;">Cache-Aware Lock-Free Queues for Multiple Producers/Consumers and Weak Memory Consistency</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(227).pdf" style="text-decoration:none;">Cache-Oblivious Algorithms
-and Data Structures</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(221).pdf" style="text-decoration:none;">WrightSim: Using PyCUDA to Simulate
+Multidimensional Spectra</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(222).pdf" style="text-decoration:none;">Python Vuh: Mayan Calendrical Mathematics with Python</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(223).pdf" style="text-decoration:none;">Scaling Polygon Adjacency Algorithms to Big Data Geospatial Analysis</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(224).pdf" style="text-decoration:none;"> Optimizing Python-Based Spectroscopic Data
+Processing on NERSC Supercomputers </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(225).pdf" style="text-decoration:none;">Hurricane Prediction with Python</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(226).pdf" style="text-decoration:none;">High-performance operator evaluations with ease of use: libCEED's Python interface</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(227).pdf" style="text-decoration:none;">FigureFirst: A Layout-first Approach for Scientific Figures</a></li> 
   
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(228).pdf" style="text-decoration:none;">Cache-Oblivious Peeling of Random Hypergraphs</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(228).pdf" style="text-decoration:none;">IMUSim - Simulating inertial and magnetic sensor systems in Python</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(229).pdf" style="text-decoration:none;">Cache-Oblivious Streaming B-trees</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(229).pdf" style="text-decoration:none;">VisPy: Harnessing The GPU For Fast, High-Level Visualization</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(230).pdf" style="text-decoration:none;">CAF - The C++ Actor Framework for Scalable and Resource-efficient Applications</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(230).pdf" style="text-decoration:none;">Python Machine Learning Projects</a></li>  
    
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(231).pdf" style="text-decoration:none;">
-Calculus Made Easy </a></li>
+Parallel Analysis in MDAnalysis using the Dask Parallel Computing Library </a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(232).pdf" style="text-decoration:none;">Calculus Refresher, version 2008.4</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(232).pdf" style="text-decoration:none;">Mailman – An Extensible Mailing List Manager Using Python</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(233).pdf" style="text-decoration:none;">Canopy: An End-to-End Performance Tracing And Analysis System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(234).pdf" style="text-decoration:none;">Can't Get To Performing
-Without Storming</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(235).pdf" style="text-decoration:none;">Captain Hook: Pirating AVs to Bypass Exploit Mitigations</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(236).pdf" style="text-decoration:none;">CASEVision/ClearCase
-Administration Guide </a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(237).pdf" style="text-decoration:none;">Checking system rules using system-specific, programmer-written compiler extensions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(233).pdf" style="text-decoration:none;">Using Python to Construct a Scalable Parallel
+Nonlinear Wave Solver</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(234).pdf" style="text-decoration:none;">MatchPy: A Pattern Matching Library</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(235).pdf" style="text-decoration:none;">Spectral Analysis of Mitochondrial Dynamics: A
+Graph-Theoretic Approach to Understanding Subcellular Pathology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(236).pdf" style="text-decoration:none;">White Noise Test: detecting autocorrelation and nonstationarities in long time series after ARIMA modeling </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(237).pdf" style="text-decoration:none;">A Real-Time 3D Audio Simulator for Cognitive
+Hearing Science</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(238).pdf" style="text-decoration:none;"> Chihuahua: A Concurrent, Moving, Garbage Collector using Transactional Memory</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(239).pdf" style="text-decoration:none;">Chinese remainder theorem and its applications</a></li>                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(240).pdf" style="text-decoration:none;">Chart Suggestions — A Thought-Starter</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(241).pdf" style="text-decoration:none;">Chord: A Scalable Peertopeer
-Lookup Service for Internet Applications</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(242).pdf" style="text-decoration:none;">CityHash: Fast Hash Functions for Strings</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(243).pdf" style="text-decoration:none;">CK-12 Probability and
-Statistics - Advanced</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(238).pdf" style="text-decoration:none;"> Matched Filter Mismatch Losses in MPSK and MQAM Using Semi-Analytic BEP Modeling</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(239).pdf" style="text-decoration:none;">Exploring the Extended Kalman Filter for GPS Positioning Using Simulated User and Satellite Track Data</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(240).pdf" style="text-decoration:none;">Real-Time Digital Signal Processing Using
+pyaudio_helper and the ipywidgets</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(241).pdf" style="text-decoration:none;">pyDEM: Global Digital Elevation Model Analysis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(242).pdf" style="text-decoration:none;">Widgets and Astropy: Accomplishing Productive
+Research with Undergraduates</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(243).pdf" style="text-decoration:none;">Dask: Parallel Computation with Blocked algorithms and Task Scheduling</a></li>
 
 
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(244).pdf" style="text-decoration:none;">Rational ClearCase Administrator's Guide</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(244).pdf" style="text-decoration:none;">Organic Molecules in Space: Insights from the NASA Ames Molecular Database in the era of the James Webb Space Telescope</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(245).pdf" style="text-decoration:none;">Cluster based Mixed Coding Schemes for Inverted File Index Compression</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(245).pdf" style="text-decoration:none;">Having your cake and eating it: Exploiting Python for programmer productivity and performance on micro-core architectures using ePython</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(246).pdf" style="text-decoration:none;">Codes for the positive integers</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(246).pdf" style="text-decoration:none;">Building a Framework for Predictive Science</a></li>   
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(247).pdf" style="text-decoration:none;">Cognitive Biases Potentially Affecting Judgment of Global Risks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(247).pdf" style="text-decoration:none;">Data Structures for Statistical Computing in Python</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(248).pdf" style="text-decoration:none;">Programming And Optimization For Intel Architecture: One-Day Work Shop</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(248).pdf" style="text-decoration:none;">Protein Folding with Python on Supercomputers</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(249).pdf" style="text-decoration:none;">Optimization Techniques for the Intel MIC Architecture. Part 1 of 3: Multi-Threading and Parallel Reduction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(250).pdf" style="text-decoration:none;">Optimization Techniques for the Intel MIC Architecture. Part 2 of 3: Strip-Mining for Vectorization</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(251).pdf" style="text-decoration:none;">Optimization Techniques for the Intel MIC Architecture. Part 3 of 3: False Sharing and Padding</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(249).pdf" style="text-decoration:none;">PySPLIT: a Package for the Generation, Analysis, and Visualization of HYSPLIT Air Parcel Trajectories</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(250).pdf" style="text-decoration:none;">TrendVis: an Elegant Interface for dense,
+sparkline-like, quantitative visualizations of multiple series using matplotlib</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(251).pdf" style="text-decoration:none;">pulse2percept: A Python-based simulation framework for bionic vision</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(252).pdf" style="text-decoration:none;">Comdb2: Bloomberg's Highly Available Relational Database System</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(252).pdf" style="text-decoration:none;">Optimised finite difference computation from symbolic equations</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(253).pdf" style="text-decoration:none;">Communication Efficient Distributed Machine Learning with the Parameter Server</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(254).pdf" style="text-decoration:none;">Comparative Performance of Memory Reclamation Strategies for Lock-free and Concurrently-readable Data Structures</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(255).pdf" style="text-decoration:none;">Competitive Programmer's Handbook</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(253).pdf" style="text-decoration:none;">Causal Bayesian NetworkX</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(254).pdf" style="text-decoration:none;">Linting science prose and the science of prose linting</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(255).pdf" style="text-decoration:none;">SpacePy - A Python-based Library of Tools for the Space Sciences</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(256).pdf" style="text-decoration:none;">Calling conventions
-for different C++ compilers and operating systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(256).pdf" style="text-decoration:none;">Campaign for IT literacy through FOSS and Spoken Tutorials</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(257).pdf" style="text-decoration:none;">
-Compiler Confidential </a></li>                              
+SunPy: Python for Solar Physicists</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(258).pdf" style="text-decoration:none;">Compiler Construction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(258).pdf" style="text-decoration:none;">Harnessing the Power of Scientific Python to
+Investigate Biogeochemistry and Metaproteomes of the Central Pacific Ocean</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(259).pdf" style="text-decoration:none;">Compiler Construction - The Art of Niklaus Wirth</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(260).pdf" style="text-decoration:none;">Compiler Design:
-Theory, Tools, and Examples</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(259).pdf" style="text-decoration:none;">An intelligent shopping list based on the application of partitioning and machine learning algorithms</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(260).pdf" style="text-decoration:none;">Python meets systems neuroscience: affordable, scalable and open-source electrophysiology in awake, behaving rodents</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(261).pdf" style="text-decoration:none;">Compiler Design In C</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(261).pdf" style="text-decoration:none;">Python: a programming language for software integration and development </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(262).pdf" style="text-decoration:none;">Compiler Internals: Exceptions and RTTI</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(262).pdf" style="text-decoration:none;">PyStream: Compiling Python onto the GPU</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(263).pdf" style="text-decoration:none;">Compiling Python Modules to Native Parallel Modules Using Pythran and OpenMP Annotations</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(263).pdf" style="text-decoration:none;">Geodynamic simulations in HPC with Python</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(264).pdf" style="text-decoration:none;">Component Object Model: An Overview and Practical Implementation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(264).pdf" style="text-decoration:none;">pandera: Statistical Data Validation of Pandas Dataframes</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(265).pdf" style="text-decoration:none;">Compressed Bloom Filters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(265).pdf" style="text-decoration:none;">Accelerating Scientific Python with Intel Optimizations</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(266).pdf" style="text-decoration:none;">Inverted Indexes: Compressed Inverted Indexes</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(266).pdf" style="text-decoration:none;">MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations</a></li> 
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(267).pdf" style="text-decoration:none;">Compressed Perfect Embedded Skip Lists for Quick Inverted-Index Lookups</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(267).pdf" style="text-decoration:none;">Combining Physics-Based and Data-Driven Modeling for Pressure Prediction in Well Construction</a></li>
  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(268).pdf" style="text-decoration:none;">compression</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(268).pdf" style="text-decoration:none;">Numerical Pyromaniacs: The Use of Python in Fire Research</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(269).pdf" style="text-decoration:none;">Computer Systems Research: Past and Future</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(269).pdf" style="text-decoration:none;">Validating Function Arguments in Python Signal Processing Applications</a></li>
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(270).pdf" style="text-decoration:none;">Concurrent Hash Tables: Fast and General(?)!</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(270).pdf" style="text-decoration:none;">Parameter Estimation Using the Python Package pymcmcstat</a></li>
  
  
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(271).pdf" style="text-decoration:none;">Concurrent Programming
-for Scalable Web Architectures</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(271).pdf" style="text-decoration:none;">Scikit-learn: Machine Learning in Python</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(272).pdf" style="text-decoration:none;">Concurrent Reference Counting and Resource Management in Constant Time</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(272).pdf" style="text-decoration:none;">Reproducible Documents with PythonTeX</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(273).pdf" style="text-decoration:none;">Conflict-Free Vectorization of Associative Irregular Applications with Recent SIMD Architectural Advances</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(274).pdf" style="text-decoration:none;">Consistently faster and smaller compressed bitmaps with Roaring</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(275).pdf" style="text-decoration:none;">Constraint Propagation Algorithms for Temporal Reasoning: A Revised Report</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(276).pdf" style="text-decoration:none;">Convex Optimization</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(277).pdf" style="text-decoration:none;">Cooperative Kernels: GPU Multitasking for Blocking Algorithms</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(273).pdf" style="text-decoration:none;">Spreading the Adoption of Python in India: the
+FOSSEE Python Project</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(274).pdf" style="text-decoration:none;">PySPH: a reproducible and high-performance
+framework for smoothed particle hydrodynamics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(275).pdf" style="text-decoration:none;">Binder 2.0 - Reproducible, interactive, sharable environments for science at scale</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(276).pdf" style="text-decoration:none;">Python for research and teaching economics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(277).pdf" style="text-decoration:none;">Pydra - a flexible and lightweight dataflow engine for scientific analyses</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(278).pdf" style="text-decoration:none;">Coq: The world's best macro assembler?</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(279).pdf" style="text-decoration:none;">Cores of Random r-Partite Hypergraphs</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(278).pdf" style="text-decoration:none;">PyFront: Conversion of Python to C Extension Modules</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(279).pdf" style="text-decoration:none;">PyLZJD: An Easy to Use Tool for Machine Learning</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(280).pdf" style="text-decoration:none;">CORFU: A Shared Log Design for Flash Clusters </a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(280).pdf" style="text-decoration:none;">Python for Unified Research in Econometrics and Statistics </a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(281).pdf" style="text-decoration:none;">COZ: Finding Code that Counts with Causal Profiling</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(282).pdf" style="text-decoration:none;">Cache Memory</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(283).pdf" style="text-decoration:none;">Creating R Packages: A Tutorial</a></li>
