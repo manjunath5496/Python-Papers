@@ -237,23 +237,26 @@ Python</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(112).pdf" style="text-decoration:none;">The Econ-ARK and HARK: Open Source Tools for
 Computational Economics</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(113).pdf" style="text-decoration:none;">An Approach for Minimal Perfect Hash Functions for Very Large Databases</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(113).pdf" style="text-decoration:none;">CAF Implementation on FPGA Using Python Tools</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(114).pdf" style="text-decoration:none;">An elegant algorithm for the construction of suffix arrays</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(115).pdf" style="text-decoration:none;">An Evaluation of Network Stack Parallelization Strategies in Modern Operating Systems</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(114).pdf" style="text-decoration:none;">PyEDA: Data Structures and Algorithms for Electronic Design Automation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(115).pdf" style="text-decoration:none;">Developing a Graph Convolution-Based Analysis
+Pipeline for Multi-Modal Neuroimage Data: An Application to Parkinson’s Disease</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(116).pdf" style="text-decoration:none;">An experimental exploration of Marsaglia's xorshift generators, scrambled</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(116).pdf" style="text-decoration:none;">Storing Reproducible Results from Computational Experiments using Scientific Python Packages</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(117).pdf" style="text-decoration:none;">An In-Depth Analysis of Disassembly on Full-Scale x86/x64 Binaries</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(117).pdf" style="text-decoration:none;">Python Tools for Reproducible
+Research on Hyperbolic Problems</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(118).pdf" style="text-decoration:none;">An Informal Analysis of Perfect Hash Function Search</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(118).pdf" style="text-decoration:none;">BCE: Berkeley's Common Scientific Compute
+Environment for Research and Education</a></li>  
    
-  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(119).pdf" style="text-decoration:none;">An Introduction to Computational Networks and the Computational Network Toolkit</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(119).pdf" style="text-decoration:none;">A High Performance Robot Vision Algorithm
+Implemented in Python</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(120).pdf" style="text-decoration:none;">An Introduction to
-Statistical Learning with Applications in R</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(120).pdf" style="text-decoration:none;">Measuring rainshafts: Bringing Python to bear on remote sensing data</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(121).pdf" style="text-decoration:none;">An NUMA API for Linux</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(121).pdf" style="text-decoration:none;">Compyle: a Python package for parallel computing</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Python-Papers/blob/master/py(122).pdf" style="text-decoration:none;">An optimal algorithm for generating minimal perfect hash functions </a></li>  
      
